@@ -98,6 +98,7 @@ soupsieve==2.3.2.post1
 stack-data==0.6.1
 streamlit==1.12.2
 tensorboard
+tensorflow
 tensorboard-data-server
 tensorboard-plugin-wit
 tensorflow-estimator
